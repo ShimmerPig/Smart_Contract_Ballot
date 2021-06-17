@@ -1,1 +1,1 @@
-"# Smart_Contract_Ballot" 
+# Smart_Contract_Ballot
